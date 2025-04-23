@@ -6,7 +6,7 @@ The general design principals are that;
 
   1. It should follow general open source guidelines and principals
 
-  2. It should be permissive towards usage in other derivative works
+  2. It should be permissive towards usage in derivative works
 
   3. It should clarify that derivative works are distributed under the same license (See CC BY-SA 3.0)
 
