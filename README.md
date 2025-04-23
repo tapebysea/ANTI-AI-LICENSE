@@ -14,7 +14,7 @@ The general design principals are that;
 
   4. It should restrict the usage of the copyrighted work in ML algorithms
 
-It's design is open-source first, and following the layout/concepts of CC BY-SA 3.0 (Creative Commons Attribution-Sharalike Unported 3.0)
+It's design is open-source-like, and following the layout/concepts of CC BY-SA 3.0 (Creative Commons Attribution-Sharalike Unported 3.0)
 
 # Purpose
 The reason I'm writing this license is to provide an open source (ish) license for the creators of software and art who don't want to forfeit to entites who blatently violate the copyright of individuals. Copyright and Intellecual Property law were enacted to protect the rights of creative individuals, but are now being used as a tool to evade, profit and control. In my opinion, this is not in the spirit of open source / software freedom. Open source shouldn't mean forfeiting your copyrighted work to corporations who simply want control you.
