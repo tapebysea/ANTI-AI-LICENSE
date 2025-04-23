@@ -6,7 +6,7 @@ The OFCPL 1.0, or Open, Fair, Creative-Protective License 1.0 is a license appli
 # Design
 The general design principals are that;
 
-  1. It should follow general open source guidelines and principals
+  1. It should follow general open source and software freedom guidelines and principals
 
   2. It should be permissive towards usage in derivative works
 
