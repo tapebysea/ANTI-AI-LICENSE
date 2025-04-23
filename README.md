@@ -2,8 +2,12 @@
 The OFCPL 1.0, or Open, Fair, Creative-Protective License 1.0 is a license applicable to software, art, music, and any other similar creative work. It is written to be permissive, open, and pragmatic, while protecting the copyrighted work from being used as training material for machine learning algorithms. Feel free to use it as you see fit. 
 
 # Design
-
-a
+The general design principals are that;
+  1. It should follow general open source guidelines and principals
+  2. It should be permissive towards usage in other deeivative works
+  3. It should not unfairly restrict the usage in general commercial operations
+  4. It should clarify that derivative works are distributed under the same license (See CC BY-SA 3.0)
+  5. It should restrict the usage of the copyrighted work in ML algorithms
 
 # Purpose
 My intent is to provide an open source license for software and art that does not wish to forfeit to entites who are able to blatently violate the copyright of individuals. Copyright and Intellecual Property law were enacted to protect the rights of the creative individual, but are now being used as a tool to evade, profit and control. This is in my opinion, not in the spirit of open source.
