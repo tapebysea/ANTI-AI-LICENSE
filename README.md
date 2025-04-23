@@ -1,5 +1,6 @@
 # 🎏 OFCPL 1.0 🎏
 The OFCPL 1.0, or Open, Fair, Creative-Protective License 1.0 is a license applicable to software, art, music, and any other similar creative work. It is written to be permissive, open, and pragmatic, while protecting the copyrighted work from being used as training material for machine learning algorithms. Feel free to use it as you see fit. 
+
 ![Yūdachi](https://github.com/user-attachments/assets/41422472-c6d2-49e4-9199-7fcfdf1e1f40)
 
 # Design
