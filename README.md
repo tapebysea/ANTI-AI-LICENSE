@@ -10,7 +10,7 @@ The general design principals are that;
 
   2. It should be permissive towards usage in derivative works, and require attribution
 
-  3. It should require that derivative works are distributed under the same license (See CC BY-SA 3.0 for example)
+  3. It should require that derivative works are distributed under the same license (See [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en) for reference)
 
   4. It should restrict the usage of the copyrighted work in ML algorithms
 
