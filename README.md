@@ -23,5 +23,5 @@ The reason I'm writing this license is to provide an open source license for the
 
 
 
-note to self, make sure to include something like this section of CC BY-SA 3.0 - 
+Note to self; make sure to include something like this section of CC BY-SA 3.0 - 
  No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits. 
