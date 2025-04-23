@@ -1,5 +1,5 @@
 # 🎏 OFCPL 1.0 🎏
-The OFCPL 1.0, or Open, Fair, Creative-Protective License 1.0 is a license applicable to software, art  and any other creative works. It is written to be permissive, open, and pragmatic, while protecting the copyrighted work from being used as training material for machine learning algorithms. Feel free to take and use it :)
+The OFCPL 1.0, or Open, Fair, Creative-Protective License 1.0 is a license applicable to software, art  and any other creative works. It is written to be permissive, open, and pragmatic, while protecting the copyrighted work in the case it is used as training material for machine learning algorithms. Feel free to take and use it :)
 
 ![Yūdachi](https://github.com/user-attachments/assets/41422472-c6d2-49e4-9199-7fcfdf1e1f40)
 
@@ -18,3 +18,5 @@ It's design is open-source first, and following the layout/concepts of CC BY-SA 
 
 # Purpose
 The reason I'm writing this license is to provide an open source license for software and art that does not wish to forfeit to entites who are able to blatently violate the copyright of individuals. Copyright and Intellecual Property law were enacted to protect the rights of the creative individual, but are now being used as a tool to evade, profit and control. This is in my opinion, not in the spirit of open source. Openness shouldn't mean you are forfeiting your copyrighted works to corporations who simply want control.
+
+> Note; While nothing can fully prevent ML algorithms from scraping copyrighted data, I personally believe it is important to take a stance on this topic out of principle, that is what this license is for. Always be aware that your license of choice is only as good as your ability to back it up in court. If you want to take further countermeasures, please check out [Anubis.](https://github.com/TecharoHQ/anubis)
