@@ -19,7 +19,7 @@ It's design is open-source first, and following the layout/concepts of CC BY-SA 
 # Purpose
 The reason I'm writing this license is to provide an open source license for the creators of software and art who don't want to forfeit to entites who blatently violate the copyright of individuals. Copyright and Intellecual Property law were enacted to protect the rights of creative individuals, but are now being used as a tool to evade, profit and control. In my opinion, this is not in the spirit of open source / software freedom. Open source shouldn't mean forfeiting your copyrighted work to corporations who simply want control.
 
-> Note; While no license can fully prevent ML algorithms from scraping copyrighted data, I personally believe that a license like this is necessary simply out of principle. Always be aware that your license of choice is only as good as your ability to defend yourself in court. If you want to take further countermeasures, please check out [Anubis.](https://github.com/TecharoHQ/anubis)
+> Note; While no license can prevent ML algorithms from scraping copyrighted data, I personally believe that a license like this is necessary simply out of principle. Always be aware that your license is only as good as your ability to defend yourself in court. If you want to take further countermeasures, please check out [Anubis.](https://github.com/TecharoHQ/anubis)
 
 
 
