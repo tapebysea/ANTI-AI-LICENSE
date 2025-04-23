@@ -1,4 +1,4 @@
-# OFCPL
+# OFCPL 1.0
 The Open, Fair, Creative-Protective License is a license who's guiding principals  This license is applicable to software, music, art, and any other similar creative work, so feel free to use as you see fit. The license's general guiding principals are of openness, fair use, and creative protection.
 
 # Why?
