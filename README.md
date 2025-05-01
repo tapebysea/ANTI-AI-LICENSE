@@ -10,14 +10,14 @@ The general design principals are that;
 
   2. It should be permissive towards usage in derivative works, and require attribution
 
-  3. It should require that derivative works are distributed under the same license (See [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en) for reference)
-
+  3. It should require that derivative works are distributed under the same license.
+     
   4. It should restrict the usage of the copyrighted work in ML algorithms
 
-It's design is open-source-like, and using some of the ideas of CC BY-SA 3.0 (Creative Commons Attribution-Sharalike Unported 3.0)
+The OFCPL 1.0 is open-source-like, however it takes some liberties as to put fair restrictions on scraping of code/art.
 
 # Purpose
-The reason I'm writing this license is to provide an open source (ish) license for the creators of software and art who don't want to forfeit to entites who blatently violate the copyright of individuals. Copyright and Intellecual Property law were enacted to protect the rights of creative individuals, but are now being used as a tool to evade, profit and control. In my opinion, this is not in the spirit of open source / software freedom. Open source shouldn't mean forfeiting your copyrighted work to corporations who simply want control you.
+The reason I'm writing this license is to provide an open source license for the creators of software and art who don't want to forfeit to entites who blatently violate the copyright of individuals. Copyright and Intellecual Property law were enacted to protect the rights of creative individuals, but are now being used as a tool to evade, profit and control. In my opinion, this is not in the spirit of open source / software freedom. Open source shouldn't mean forfeiting your copyrighted work to corporations who simply want control you.
 
 > Note; While no license can prevent ML algorithms from scraping copyrighted data, I personally believe that a license like this is necessary simply out of principle. Always be aware that your license is only as good as your ability to defend yourself in court. If you want to take further countermeasures, please check out [Anubis.](https://github.com/TecharoHQ/anubis)
 
