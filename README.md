@@ -4,7 +4,7 @@ The OFCPL 1.0, or Open, Fair, Creative-Protective License 1.0 is a license appli
 ![Yūdachi](https://github.com/user-attachments/assets/41422472-c6d2-49e4-9199-7fcfdf1e1f40)
 
 # Design
-The general design principals are that;<br />
+The general design principals are that;
 
 >  1. It should follow general open source and software freedom principals
 >
@@ -13,6 +13,8 @@ The general design principals are that;<br />
 >  3. It should require that derivative works are distributed under the same license.
 >     
 >  4. It should restrict the usage of the copyrighted work in ML algorithms<br />
+
+&nbsp;
 
 The OFCPL 1.0 is open-source-like, however it takes some liberties as to put fair restrictions on scraping of code/art.
 
