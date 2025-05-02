@@ -14,7 +14,7 @@ The general design principals are that;
      
   4. It should restrict the usage of the copyrighted work in ML algorithms
 
-The OFCPL 1.0 is an open-source-like license, however it places fair restrictions on scraping code/art.
+The OFCPL 1.0 is an open-source-like license, however it takes some liberties as to place fair restrictions on scraping code/art.
 
 # Purpose
 The reason I'm writing this license is to provide an open-source license for the creators of software and art who don't want to forfeit to entites who blatently violate the copyright of individuals. Copyright and Intellecual Property law were enacted to protect the rights of creative individuals, but are now being used as a tool to evade, profit and control. In my opinion, this is not in the spirit of open source / software freedom. Open source shouldn't mean forfeiting your copyrighted work to corporations who simply want control you.
